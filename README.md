@@ -13,3 +13,4 @@ Este proyecto automatiza la creación de pedidos de robots en [Robot Spare Bin I
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/jfmg1978/robot-orders-handler.git
+   Seguir las instrucciones del curso para crear un nuevo proyecto y añadir el código      tasks.py
