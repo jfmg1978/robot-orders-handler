@@ -9,7 +9,7 @@ import shutil
 import zipfile
 from RPA.HTTP import HTTP
 
-"""Librerías"""
+"""Clases y métodos"""
 
 class CustomPDF(FPDF):
     def header(self):
